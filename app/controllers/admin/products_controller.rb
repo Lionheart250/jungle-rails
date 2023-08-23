@@ -1,4 +1,5 @@
 class Admin::ProductsController < ApplicationController
+  http_basic_authenticate_with name: ENV["HTTP_BASIC_AUTH_USERNAME"], password: ENV["HTTP_BASIC_AUTH_PASSWORD"]
 
   def index
     @products = Product.order(id: :desc).all
@@ -19,7 +20,7 @@ class Admin::ProductsController < ApplicationController
   end
 
   def destroy
-    @product = Product.find params[:id]
+    @product = Product.find(params[:id])
     @product.destroy
     redirect_to [:admin, :products], notice: 'Product deleted!'
   end
@@ -36,5 +37,4 @@ class Admin::ProductsController < ApplicationController
       :price
     )
   end
-
 end
