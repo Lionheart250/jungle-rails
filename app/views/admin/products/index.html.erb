@@ -25,6 +25,27 @@
       </tbody>
     </table>
 
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Description</th>
+          <th>Price</th>
+          <th>Quantity</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% @products.each do |product| %>
+          <tr>
+            <td><%= product.name %></td>
+            <td><%= product.description %></td>
+            <td><%= humanized_money_with_symbol product.price %></td>
+            <td><%= product.quantity %></td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+
   </div>
 
 </section>
