@@ -9,12 +9,8 @@
       <h1><%= @product.name %></h1>
       <p><%= @product.description %></p>
       <div class="quantity">
-        <% if @product.quantity.zero? %>
-          <span class="sold-out-badge">Sold Out</span>
-        <% else %>
-          <span><%= @product.quantity %> in stock at </span>
-          <span><%= humanized_money_with_symbol(@product.price) %></span>
-        <% end %>
+        <span><%= @product.quantity %> in stock at </span>
+        <span><%= @product.price %></span>
       </div>
       <div class="price">          
         <% if @product.quantity.zero? %>
