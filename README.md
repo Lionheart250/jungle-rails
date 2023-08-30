@@ -37,25 +37,27 @@ For more details, refer to the [Stripe testing documentation](https://stripe.com
 
 ## Screenshots
 
+## Screenshots
+
 Here are some screenshots showcasing the application's features:
 
-1. **Screenshot 1: 
-  (https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.01.28%20AM.png?raw=true)
+**Screenshot 1:**  
+![Screenshot 1](https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.01.28%20AM.png?raw=true)
 
-2. **Screenshot 2: 
-(https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.01.35%20AM.png?raw=true)
+**Screenshot 2:**  
+![Screenshot 2](https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.01.35%20AM.png?raw=true)
 
-3. **Screenshot 3: 
-(https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.01.45%20AM.png?raw=true)
+**Screenshot 3:**  
+![Screenshot 3](https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.01.45%20AM.png?raw=true)
 
-4. **Screenshot 4: 
-(https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.02.11%20AM.png?raw=true)
+**Screenshot 4:**  
+![Screenshot 4](https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.02.11%20AM.png?raw=true)
 
-5. **Screenshot 5: 
-(https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.02.22%20AM.png?raw=true)
+**Screenshot 5:**  
+![Screenshot 5](https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.02.22%20AM.png?raw=true)
 
-6. **Screenshot 6: 
-(https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.02.32%20AM.png?raw=true)
+**Screenshot 6:**  
+![Screenshot 6](https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.02.32%20AM.png?raw=true)
 
-7. **Screenshot 7: 
- (https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.03.57%20AM.png?raw=true)
+**Screenshot 7:**  
+![Screenshot 7](https://github.com/Lionheart250/jungle-rails/blob/master/docs/Screen%20Shot%202023-08-30%20at%2010.03.57%20AM.png?raw=true)
