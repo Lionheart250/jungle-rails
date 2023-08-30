@@ -35,3 +35,27 @@ For more details, refer to the [Stripe testing documentation](https://stripe.com
 - PostgreSQL 9.x
 - Stripe
 
+## Screenshots
+
+Here are some screenshots showcasing the application's features:
+
+1. **Screenshot 1: 
+   ![Homepage](/Users/jack/lighthouse/jungle-rails/docs/Screen Shot 2023-08-30 at 10.01.28 AM.png)
+
+2. **Screenshot 2: 
+   ![User Profile](/Users/jack/lighthouse/jungle-rails/docs/Screen Shot 2023-08-30 at 10.01.35 AM.png)
+
+3. **Screenshot 3: 
+   ![Settings](/Users/jack/lighthouse/jungle-rails/docs/Screen Shot 2023-08-30 at 10.01.45 AM.png)
+
+4. **Screenshot 4: 
+   ![Search](/Users/jack/lighthouse/jungle-rails/docs/Screen Shot 2023-08-30 at 10.02.11 AM.png)
+
+5. **Screenshot 5: 
+   ![Data Visualization](/Users/jack/lighthouse/jungle-rails/docs/Screen Shot 2023-08-30 at 10.02.22 AM.png)
+
+6. **Screenshot 6: 
+   ![Mobile View](/Users/jack/lighthouse/jungle-rails/docs/Screen Shot 2023-08-30 at 10.02.32 AM.png)
+
+7. **Screenshot 7: 
+   ![Notifications](/Users/jack/lighthouse/jungle-rails/docs/Screen Shot 2023-08-30 at 10.03.57 AM.png)
