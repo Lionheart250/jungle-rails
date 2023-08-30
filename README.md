@@ -1,27 +1,32 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+**Jungle** is a mini e-commerce application built with Rails 6.1. It serves as an example-driven teaching tool for Rails.
 
 ## Setup
+
+Follow these steps to set up and run the project on your local machine:
 
 1. Run `bundle install` to install dependencies
 2. Create `config/database.yml` by copying `config/database.example.yml`
 3. Create `config/secrets.yml` by copying `config/secrets.example.yml`
-4. Run `bin/rails db:reset` to create, load and seed db
-5. Create .env file based on .env.example
+4. Run `bin/rails db:reset` to create, load, and seed the database
+5. Create a `.env` file based on `.env.example`
 6. Sign up for a Stripe account
-7. Put Stripe (test) keys into appropriate .env vars
+7. Put your Stripe (test) keys into the appropriate `.env` variables
 8. Run `bin/rails s -b 0.0.0.0` to start the server
 
 ## Database
 
-If Rails is complaining about authentication to the database, uncomment the user and password fields from `config/database.yml` in the development and test sections, and replace if necessary the user and password `development` to an existing database user.
+If you encounter authentication issues with the database:
+
+- Uncomment the `user` and `password` fields in `config/database.yml` in the development and test sections.
+- Replace `user` and `password` under `development` with an existing database user if necessary.
 
 ## Stripe Testing
 
-Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
+For successful payment testing, use Credit Card # 4111 1111 1111 1111.
 
-More information in their docs: <https://stripe.com/docs/testing#cards>
+For more details, refer to the [Stripe testing documentation](https://stripe.com/docs/testing#cards).
 
 ## Dependencies
 
@@ -29,3 +34,4 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
