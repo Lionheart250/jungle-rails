@@ -44,6 +44,7 @@ gem 'rmagick'
 gem 'faker'
 gem 'carrierwave'
 
+gem 'database_cleaner'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
@@ -57,6 +58,8 @@ group :development, :test do
   gem 'dotenv-rails'
   gem 'rspec-rails', '~> 5.1'
   gem 'net-smtp', require: false
+  gem 'cypress-rails'
+
 
 
 end
